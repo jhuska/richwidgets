@@ -1,3 +1,4 @@
 $('#list').pickList({
-  header: 'List layout'
+  header: 'List layout',
+  orderable: false,
 });
